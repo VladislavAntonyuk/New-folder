@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InversionOfControl", "InversionOfControl\InversionOfControl.csproj", "{ECEC17B6-5E52-45A0-BEF0-2AEC691E729F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InversionOfControl.Tests", "InversionOfControl.Tests\InversionOfControl.Tests.csproj", "{75E28D64-520B-4675-8152-B69AD5535E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECEC17B6-5E52-45A0-BEF0-2AEC691E729F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEC17B6-5E52-45A0-BEF0-2AEC691E729F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEC17B6-5E52-45A0-BEF0-2AEC691E729F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEC17B6-5E52-45A0-BEF0-2AEC691E729F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E28D64-520B-4675-8152-B69AD5535E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E28D64-520B-4675-8152-B69AD5535E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E28D64-520B-4675-8152-B69AD5535E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E28D64-520B-4675-8152-B69AD5535E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
